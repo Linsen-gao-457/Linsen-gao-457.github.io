@@ -13,7 +13,7 @@ I am a master student in Electrical and Computer Engineering at **the University
 
 My current research interest focus on Compiler Testing and Program Reduction.
 
-![./image/Uwaterloo.gif](https://zh.wikipedia.org/wiki/File:Uwaterloo_seal.gif))
+![University of Waterloo Logo](./images/Uwaterloo.gif)
 
 ### Milestones🎉
 
