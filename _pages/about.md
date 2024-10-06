@@ -19,13 +19,13 @@ My current research interests focus on Compiler Testing and Program Reduction.
 
 - **2024/09:** Begin my jouney in Computer Science🤗!
 
-### Intern💼
-
-- **2023/07 -2023/09:** IT intern in Nanjing Xin’aoxin Intelligent Technology Co., Ltd.
-
 ### Representative Works⚙️
 
 -
+
+### Intern💼
+
+- **2023/07 -2023/09:** IT intern in Nanjing Xin’aoxin Intelligent Technology Co., Ltd.
 
 ### Awards🏆
 
