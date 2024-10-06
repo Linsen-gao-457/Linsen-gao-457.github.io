@@ -24,19 +24,17 @@ author:
   avatar: "profile.png"
   name: "Linsen"
   pronouns: # example: "she/her"
-  bio: "ECE master student at UWaterloo"
+  bio: "An UWaterloo student"
   location: "Ontario, Canada"
   employer: "University of Waterloo"
-  uri: # URL
+  uri: https://uwaterloo.ca
   email: "l78gao@uwaterloo.ca"
 
   # Academic websites
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
 
   # Repositories and software development
   github: "Linsen-gao-457"
-  kaggle: # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
