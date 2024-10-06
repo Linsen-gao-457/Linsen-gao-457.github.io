@@ -29,6 +29,6 @@ My current research interests focus on Compiler Testing and Program Reduction.
 
 ### Awards🏆
 
-- Outstanding Conclusion of Student Innovation and Entrepreneurship Project,2023. **(Top 1%)**
+- Outstanding Conclusion of Student Innovation and Entrepreneurship Project, 2023. **(Top 1%)**
 - School-level First-class scholarship, 2024. **(Top 5%)**
-- Provincial Second Prize in Advanced Mathematics Contest. **(Top 5%)**
+- Provincial Second Prize in Advanced Mathematics Contest, 2021. **(Top 5%)**
