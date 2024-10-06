@@ -11,7 +11,9 @@ redirect_from:
 
 I am a master student in Electrical and Computer Engineering at **the University of Waterloo** . I am now a research assistant supervised by [Pro.Chengniang Sun](https://cs.uwaterloo.ca/~cnsun/public/).
 
-My current research interest focus on Compiler Testing and Program Reductino.
+My current research interest focus on Compiler Testing and Program Reduction.
+
+![UWaterloo Logo](./image/Uwaterloo.gif)
 
 ### Milestones🎉
 
