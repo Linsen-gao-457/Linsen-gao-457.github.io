@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### 👀About me
+### About me👀
 
 I am a master student in Electrical and Computer Engineering at **the University of Waterloo** . I am now a research assistant supervised by [Pro.Chengniang Sun](https://cs.uwaterloo.ca/~cnsun/public/).
 
