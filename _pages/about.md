@@ -9,7 +9,7 @@ redirect_from:
 
 ### About me👀
 
-I am a master student in Electrical and Computer Engineering at **the University of Waterloo** . I am now a research assistant supervised by [Pro.Chengniang Sun](https://cs.uwaterloo.ca/~cnsun/public/).
+I am a master student in Electrical and Computer Engineering at **the University of Waterloo** . I am now a research assistant supervised by [Prof.Chengniang Sun](https://cs.uwaterloo.ca/~cnsun/public/).
 
 My current research interests focus on Compiler Testing and Program Reduction.
 
