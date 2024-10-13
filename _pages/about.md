@@ -17,7 +17,7 @@ My current research interests focus on Compiler Testing and Program Reduction.
 
 ### Milestones🎉
 
-- **2024/09:** Begin my jouney in Computer Science🤗!
+- **2024/09:** Begin my journey in Computer Science🤗!
 
 ### Representative Works⚙️
 
