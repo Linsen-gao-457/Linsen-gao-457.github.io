@@ -8,12 +8,14 @@ main:
   - title: "CV"
     url: /cv/
     url: /files/Resume.pdf
-
+  
+  - title: "Books"
+    url: /books/
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "Books"
-    url: /Books/
+  # - title: "Talks"
+  #   url: /talks/
 
   # - title: "Teaching"
   #   url: /teaching/
