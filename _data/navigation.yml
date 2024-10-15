@@ -9,8 +9,8 @@ main:
     url: /cv/
     url: /files/Resume.pdf
   
-  - title: "Books"
-    url: /books/
+  # - title: "Books"
+  #   url: /books/
   # - title: "Publications"
   #   url: /publications/
 
