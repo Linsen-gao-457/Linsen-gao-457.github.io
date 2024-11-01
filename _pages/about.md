@@ -9,9 +9,10 @@ redirect_from:
 
 ### About me👀
 
-I am a master student in Electrical and Computer Engineering at **the University of Waterloo** . I am exploring what I am passion about and I really want to do in the rest of my life. I dream of becoming a professor one day, driven by a desire to uplift others and make meaningful contributions to society as a whole. No matter the effort required, I am committed to this path, knowing it aligns with my deepest aspirations and values.
+I am a master student in Electrical and Computer Engineering at **the University of Waterloo**. I am exploring what I am passion about and I really want to do in the rest of my life. I dream of becoming a professor one day, driven by a desire to uplift others and make meaningful contributions to society as a whole. No matter the effort required, I am committed to this path, knowing it aligns with my deepest aspirations and values.
 
-motto
+Motto---
+
 "passion without motivation." ---Krishna
 
 ![University of Waterloo Logo](./images/Uwaterloo.gif)
