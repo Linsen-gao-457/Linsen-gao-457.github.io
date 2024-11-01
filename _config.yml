@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Linsen's Homapage"
+title: "Forrest's Homapage"
 title_separator: "-"
-name: &name "Linsen Gao"
+name: &name "Forrest Gao"
 description: &description "personal description"
 url: https://Linsen-gao-457.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
