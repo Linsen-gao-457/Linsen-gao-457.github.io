@@ -9,7 +9,7 @@ redirect_from:
 
 ### About me👀
 
-I am a master's student in Electrical and Computer Engineering at **the University of Waterloo**. I am exploring what I am passion about and I really want to do in the rest of my life.
+I am a master's student in Electrical and Computer Engineering at **the University of Waterloo**. I am interested in Information Retrieval (IR) and Large Language Model(LLM).
 
 Motto "passion without motivation." ---Krishna
 
