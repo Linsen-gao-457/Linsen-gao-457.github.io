@@ -9,7 +9,7 @@ redirect_from:
 
 ### About me👀
 
-I am a master's student in Electrical and Computer Engineering at **the University of Waterloo**. I am interested in Information Retrieval (IR) and Large Language Model(LLM).
+I am a master's student in Electrical and Computer Engineering at **the University of Waterloo**. I am interested in Information Retrieval and Machine Learning.
 
 Motto "passion without motivation." ---Krishna
 
@@ -18,10 +18,13 @@ Motto "passion without motivation." ---Krishna
 ### Milestones🎉
 
 - **2024/09:** Begin my journey in Computer Science🤗!
+- **2025/09** Begin my internship in Uottawa supervised by [Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/)
 
-### Representative Works⚙️
+### Learning📖
+I’ve always been an enthusiastic lifelong learner, and I am grateful that online course let me study wonderful materials whenever and whereever I can.
 
--
+- [18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) from MIT
+- [EE364a in Convex Optimization I and II](https://web.stanford.edu/class/ee364a/) from Stanford
 
 ### Intern💼
 
