@@ -17,8 +17,8 @@ Motto "passion without motivation." ---Krishna
 
 ### Milestones🎉
 
-- **2024/09:** Begin my journey in Computer Science🤗!
-- **2025/09** Begin my internship in Uottawa supervised by [Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/)
+- **2024/09:** Begin my journey in Computer Science🤗
+- **2025/09:** Begin my internship at Uottawa supervised by [Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/)
 
 ### Learning📖
 I’ve always been an enthusiastic lifelong learner, and I am grateful that online course let me study wonderful materials whenever and whereever I can.
