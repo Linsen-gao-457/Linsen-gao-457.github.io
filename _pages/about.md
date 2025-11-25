@@ -24,7 +24,7 @@ Motto "passion without motivation." ---Krishna
 I’ve always been an enthusiastic lifelong learner, and I am grateful that online course let me study wonderful materials whenever and whereever I can.
 
 - [18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) from MIT
-- [EE364a in Convex Optimization I and II](https://web.stanford.edu/class/ee364a/) from Stanford
+- [EE364a Convex Optimization I and II](https://web.stanford.edu/class/ee364a/) from Stanford
 - [ECE602 Introduction to Optimization ](https://ece.uwaterloo.ca/~ece602/)from Uwaterloo
 - [CS680 Introduction to Machine Learning ](https://cs.uwaterloo.ca/~y328yu/teaching/480/)from Uwaterloo
 - Stochastical Process, taught by Yongyi Mao
