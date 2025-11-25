@@ -25,6 +25,8 @@ I’ve always been an enthusiastic lifelong learner, and I am grateful that onli
 
 - [18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) from MIT
 - [EE364a in Convex Optimization I and II](https://web.stanford.edu/class/ee364a/) from Stanford
+- [Introduction to Optimization from Uwaterloo](https://ece.uwaterloo.ca/~ece602/)
+- Stochastical Process, taught by Yongyi Mao
 
 ### Intern💼
 
