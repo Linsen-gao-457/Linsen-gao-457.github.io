@@ -10,7 +10,16 @@ Recently, I read an [article](https://www.linkedin.com/feed/update/urn:li:activi
 
 As a young person transitioning from a heavy-industry environment at Uwaterloo to someone pursuing AI theory at least now. I have some thinking about difference between research and engineering. 
 
-[Toc]
+**Table of Contents**
+- [My Understanding From LeCun’s Distinction](#my-understanding-from-lecuns-distinction)
+- [My Understanding From Musk’s View](#my-understanding-from-musks-view)
+- [A Lesson From My Friend Matt](#a-lesson-form-my-friend-matt)
+- [My Life Philosophy](#my-life-philosophy)
+  - [Stage One: Idealizing Industry](#first-stage-idealizing-industry)
+  - [Stage Two: Realizing the Gap in Engineering](#second-stage-realizing-the-gap-in-engineering)
+  - [Stage Three: Recognizing Both Worlds](#third-stage-recognizing-both-worlds)
+- [Conclusion](#conclusion)
+
 
 
 ---
