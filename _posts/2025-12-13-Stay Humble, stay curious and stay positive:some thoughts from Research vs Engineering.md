@@ -70,7 +70,7 @@ When I decided to explore research at Waterloo, it was because I felt frustrated
 >Why must artificial intelligence rely so heavily on probabilistic models?
 Is there a way for AI to access knowledge directly, rather than follow the probability game?
 
-At that time, I am really weak at math, for now, I am still weak at math. I am confused why people should learn these really hard math to do AI. I thought maybe IR(information retrieval) and RAG(Retrival-Augmented Generation) could be a way to free us from the probability game. But after learning the details, I realized that RAG simply intergrate the traditional IR pipeline to get the top k documents and put these documents and prompt into LLM to generate the answer. It's still within the range of probaility game. I know many researchers in theory size would be very mad after hearing my ideas:)
+At that time, I am really weak at math, for now, I am still weak at math. I am confused why people should learn these really hard math to do AI. I thought maybe IR(information retrieval) and RAG(Retrival-Augmented Generation) could be a way to free us from the probability game. But after learning the details, I realized that RAG simply intergrates the traditional IR pipeline to get the top k documents and put these documents and prompt into LLM to generate the answer. It's still within the range of probaility game. I know many researchers on theory side would be very mad after hearing my ideas:)
 
 It's a failure but it's also an important moment of remider which says don't judge.
 
