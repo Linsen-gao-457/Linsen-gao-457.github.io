@@ -1,5 +1,5 @@
 ---
-title: 'Stay Humble, stay curious and stay positive:some thoughts from Research vs Engineering'
+title: 'Stay Humble, Stay Curious and Stay Positive : Some Thoughts from Research vs Engineering'
 date: 2025-12-07
 permalink: /posts/Humble/
 tags:
