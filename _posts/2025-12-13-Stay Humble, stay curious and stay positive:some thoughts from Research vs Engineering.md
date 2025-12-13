@@ -24,14 +24,14 @@ As a young person transitioning from a heavy-industry environment at Uwaterloo t
 
 ---
 
-### My understanding from Lecun's Distinction
+## My understanding from Lecun's Distinction
 Lecun describes research as a proufoundly creative work to increase the stock of human knowledge. Researchers care about explianability, elegant principles and  work that can be critized, reproduced by the research community. 
 
  Engineering, in constract, integrates developed research discovery into working systems. The philosophy of engineering is pragmatic: choose the first sets of scientific tools that work well given real-world constraints. Whether the method is the abosolute best matters less than wheather it is good enough to work. 
  
  Metrics also differ. Research often uses offline metrics liek precision, recall etc. Engineering adds online metrics which is problem-oriented such as click-through rate, revenue lift etc.
 
-### My understanding from Musk's view
+## My understanding from Musk's view
 
 Musk said that, at xAI, 'there are only engineers'. I think it conflicts with Lecun literally but there is similarities behind the words.
 
@@ -49,7 +49,7 @@ Musk's idea is very programatic and problem-solving oritented. I would call it e
 
 ---
 
-### A lesson form my friend Matt
+## A lesson form my friend Matt
 
 There is some important I learned from my best friend Matt at UWaterloo who is working at X now. **You have the right to choose the company you want to work.** 
 
@@ -57,11 +57,11 @@ If you don't like a company's philosophy or rules, you can choose one aligning b
 
 **Just goes with the one fits you.**
 
-### My life philosophy
+## My life philosophy
 
 First, I want to admit my ignorance. Everyone carries their own bias and all of us are constained by the perspectives we start with. My journey so far can be divided into three stages, each revealign something different about myself and my major knowledge level.
 
-#### First stage: idealizing industry
+### First stage: idealizing industry
 
 In the beginning, I believed industry was far better than academia. 
 
@@ -76,7 +76,7 @@ It's a failure but it's also an important moment of remider which says don't jud
 
 Now, I want to study math precisely even I am dense to math, not reject them blindly. I want to get good command of math tools to valid my ideas. And I think these math tools are valid by years of researchers. These theory remains gold, even now in a fast-moving AI field.
 
-#### Second stage: Realizing the Gap in Engineering
+### Second stage: Realizing the Gap in Engineering
 
 After a couples months of learning in Ottawa, I gradually udnerstnad that many engnineers(previous me is part of them) don't know the principles behind the tool. They move fast, build things, and deliver results, but sometimes without understanding the deeper structure. 
 
@@ -87,7 +87,7 @@ During my time in Ottawa, Professor Mao taught me something I value deeply:
 
 For the first time, I felt like I was on the right track - not just building things, but understand why they work. 
 
-#### Third stage: Recognizing both worlds
+### Third stage: Recognizing both worlds
 
 Recently, I was running and playing around with some LLM structure which is very engineering size; I realize that instead of treating the two things seperatedly. We could think these as two skills: think in a extreme clean enviroment and implement in a dirty enviroment. 
 
