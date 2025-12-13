@@ -1,6 +1,6 @@
 ---
 title: 'Stay Humble, Stay Curious and Stay Positive : Some Thoughts from Research vs Engineering'
-date: 2025-12-07
+date: 2025-12-13
 permalink: /posts/Humble/
 tags:
   - life psychology
