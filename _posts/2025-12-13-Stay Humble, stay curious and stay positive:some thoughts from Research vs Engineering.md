@@ -27,7 +27,7 @@ As a young person transitioning from a heavy-industry environment at Uwaterloo t
 ### My understanding from Lecun's Distinction
 Lecun describes research as a proufoundly creative work to increase the stock of human knowledge. Researchers care about explianability, elegant principles and  work that can be critized, reproduced by the research community. 
 
- Engineering, in constract, integrates developed research discovery into working systems. The philosophy of engineering is pragmatic: choose the first sets of scitific tools that work well given real-world constraints. Whether the method is the abosolute best matters less than wheather it is good enough to work. 
+ Engineering, in constract, integrates developed research discovery into working systems. The philosophy of engineering is pragmatic: choose the first sets of scientific tools that work well given real-world constraints. Whether the method is the abosolute best matters less than wheather it is good enough to work. 
  
  Metrics also differ. Research often uses offline metrics liek precision, recall etc. Engineering adds online metrics which is problem-oriented such as click-through rate, revenue lift etc.
 
@@ -43,7 +43,7 @@ Musk's idea is very programatic and problem-solving oritented. I would call it e
 
 >TL;DR
 
->On engineering side, the work of engineers forms the link between scitific discoveries and their applications to human life and businees. The metric for engineers are their product impact often related to the companies' ambition. 
+>On engineering side, the work of engineers forms the link between scientific discoveries and their applications to human life and businees. The metric for engineers are their product impact often related to the companies' ambition. 
 
 >On reserach side, the goal is fundamentally different. Research is creative pursuit focused on truth and correctness. The metric for researchers are their intellectual impact. 
 
