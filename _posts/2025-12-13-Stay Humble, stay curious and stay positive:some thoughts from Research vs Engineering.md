@@ -89,7 +89,7 @@ For the first time, I felt like I was on the right track - not just building thi
 
 ### Third Stage: Recognizing Both Worlds
 
-Recently, I was running and playing around with some LLM structure which is very engineering size; I realize that instead of treating the two things seperatedly. We could think these as two skills: think in a extreme clean enviroment and implement in a dirty enviroment. 
+Recently, I was running and playing around with some LLM structure which is on engineering side; I realize that instead of treating the two things seperatedly. We could think these as two skills: think in a clean enviroment and implement in a dirty enviroment. 
 
 So I think the most important things for me is **What of Probelm I Want to Solve?** Then I choose **What Kind of the Skills I Want to be Good at**.
 
