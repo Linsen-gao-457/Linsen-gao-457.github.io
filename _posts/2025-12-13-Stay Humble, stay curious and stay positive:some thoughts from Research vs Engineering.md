@@ -76,7 +76,7 @@ At that time, I am really weak at math, for now, I am still weak at math. I am c
 
 It's a failure but it's also an important moment of remider which says don't judge.
 
-Now, I want to study math precisely even I am dense to math, not reject them blindly. I want to get good command of math tools to valid my ideas. And I think these math tools are valid by years of researchers. These theory remains gold, even now in a fast-moving AI field.
+Now, I want to study math precisely even I am dense to math, not reject them blindly. My goal is to get good command of math tools so that I can rigorously verify my ideas. And I believe these math tools has been validated through decades of research. And these theory remains gold, even now in a fast-moving AI field.
 
 ### Second Stage: Realizing the Gap in Engineering
 
