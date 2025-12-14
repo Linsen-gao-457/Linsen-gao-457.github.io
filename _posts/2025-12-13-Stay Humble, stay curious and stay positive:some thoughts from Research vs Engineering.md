@@ -59,7 +59,7 @@ If you don't like a company's philosophy or rules, you can choose one aligning b
 
 ## My life Philosophy
 
-First, I want to admit my ignorance. Everyone carries their own bias and all of us are constained by the perspectives we start with. Thanks for my girlfriend Zhiqi to point out my ignorance. My journey so far can be divided into three stages, each revealign something different about myself and my major knowledge level.
+First, I want to admit my ignorance. Everyone carries their own bias and all of us are constained by the perspectives we start with. Thanks for my girlfriend Zhiqi to point out my ignorance. My journey so far can be divided into three stages, each revealing something different about myself and my major knowledge level.
 
 ### First Stage: Idealizing Industry
 
