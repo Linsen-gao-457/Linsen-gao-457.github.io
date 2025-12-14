@@ -6,6 +6,8 @@ tags:
   - life psychology
 ---
 
+A blog talks about difference between research and engineering, and my takeaway from it.
+
 Recently, I read an [article](https://www.linkedin.com/feed/update/urn:li:activity:7403821473678831616/) from  Lecun about difference between research and engineering. There was one takeaway I hope I could remember for my whole life: **stay humble, stay curious, and stay positive.**
 
 As a young person transitioning from a heavy-industry environment at Uwaterloo to someone pursuing AI theory at least now. I have some thinking about difference between research and engineering. 
