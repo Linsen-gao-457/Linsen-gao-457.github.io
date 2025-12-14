@@ -99,7 +99,7 @@ So I think the most important things for me is **What of Probelm I Want to Solve
 
 All in all, the real question is only one:
 
-**Which Problems I am Passion about?**
+**Which Problems I want to solve?**
 
 
 I still don't have the answer for this question, but I think that's okay. It need time to get it. What matter is I am learning to stay humble, stay curious, and stay positive as I navigate during my journey.
