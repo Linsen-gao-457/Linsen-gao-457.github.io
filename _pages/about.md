@@ -12,7 +12,7 @@ redirect_from:
 I am a master's student in Electrical and Computer Engineering at **the University of Waterloo**. I am interested in Information Retrieval and Machine Learning.
 
 
-People I admire:  My parents, [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi)
+People I admire:  My parents, [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi), [Lee Kuan Yew](https://en.wikipedia.org/wiki/Lee_Kuan_Yew), and [Pierre Trudeau](https://en.wikipedia.org/wiki/Pierre_Trudeau).
 
 Motto "passion without motivation." ---Krishna
 
