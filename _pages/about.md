@@ -15,6 +15,8 @@ I am a master's student in Electrical and Computer Engineering at **the Universi
 People I admire:  My parents, [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi)
 
 Motto "passion without motivation." ---Krishna
+
+
 ![University of Waterloo Logo](./images/Uwaterloo.gif)
 
 ### Milestones🎉
