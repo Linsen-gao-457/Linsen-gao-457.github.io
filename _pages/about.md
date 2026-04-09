@@ -27,7 +27,7 @@ Motto "Passion Without Motivation." ---Krishna
 
 
 ### Learning📖
-I have always been an enthusiastic lifelong learner, and I am grateful that online courses let me study wonderful materials.
+I have always been an enthusiastic lifelong learner, and I am grateful that online resources let me study wonderful materials.
 
 
 - [18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) from MIT
