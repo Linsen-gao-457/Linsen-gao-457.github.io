@@ -23,15 +23,12 @@ author:
   # Biographic information
   avatar: "profile.png"
   name: "Forrest Gao(高林森)"
-  pronouns: # example: "she/her"
-  bio: "An UWaterloo student"
+  #pronouns: # example: "she/her"
+  #bio: ""
   location: "Ontario, Canada"
-  employer: "University of Waterloo"
+  employer: "University of Ottawa"
   email: "l78gao@uwaterloo.ca"
   twitter: "linsen_gao"
-  zhihu: "cumulus-75-64"
-  linkedin: "linsen（forrest）-gao-690618326"
-  goodreads: "184730667-forrest-gao"
   # Academic websites
   # googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
 

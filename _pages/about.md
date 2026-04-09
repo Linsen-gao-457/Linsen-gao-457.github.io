@@ -31,7 +31,6 @@ I’ve always been an enthusiastic lifelong learner, and I am grateful that onli
 - [EE364 Convex Optimization I and II](https://web.stanford.edu/class/ee364a/) from Stanford
 - [ECE602 Introduction to Optimization](https://ece.uwaterloo.ca/~ece602/) from Uwaterloo
 - [CS680 Introduction to Machine Learning](https://cs.uwaterloo.ca/~y328yu/teaching/480/) from Uwaterloo
-- Stochastical Process, taught by [Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/)
 
 ### Intern💼
 
