@@ -9,7 +9,7 @@ redirect_from:
 
 ### About me👀
 
-I am an incoming PhD student at the **University of Ottawa**; I obstained my Master of Engineering at **the University of Waterloo** in 2026; I received my Bachelor of Engineering at the Nanjing University of Post and Telecommunication in 2024.
+I am an incoming PhD student at the **University of Ottawa**; I obstained my Master of Engineering at **the University of Waterloo** in 2026; I received my Bachelor of Engineering at **NJUPT** in 2024.
 
 I am passionate about Machine Learning.
 
