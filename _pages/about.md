@@ -9,7 +9,7 @@ redirect_from:
 
 ### About me👀
 
-I am a master's student in Electrical and Computer Engineering at **the University of Waterloo**. I am interested in Information Retrieval and Machine Learning.
+I am an incoming PhD student at the **University of Ottawa** and obstained my master's degree at **the University of Waterloo** in 2026. I am passionate about Machine Learning.
 
 
 People I admire:  My parents, [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi), [Lee Kuan Yew](https://en.wikipedia.org/wiki/Lee_Kuan_Yew), and [Pierre Trudeau](https://en.wikipedia.org/wiki/Pierre_Trudeau).
@@ -36,7 +36,7 @@ I’ve always been an enthusiastic lifelong learner, and I am grateful that onli
 
 - **2023/07 -2023/09:** Software Engineering Intern at ENN Group(Trained and Deployed a GPT-based collaborative knowledge-base chatbot into Dingding)
 - **2024/12 - 2025/08**: Internship supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/)(Conducted reproduction experiments on a closed-source multilingual retrieval model at Google - [SwimIR](https://github.com/google-research-datasets/swim-ir))
-- **2025/09 - Now:** Internship supervised by [Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/)(Research topic about Generative AI/Hopfield Network)
+- **2025/09 - Now:** Internship supervised by [Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/)
 
 ### Awards🏆
 
