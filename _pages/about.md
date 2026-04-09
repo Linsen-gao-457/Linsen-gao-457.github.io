@@ -18,7 +18,7 @@ Motto "passion without motivation." ---Krishna
 
 
 ![University of Waterloo Logo](./images/Uwaterloo.gif)
-
+![University of Ottawa Logo](./images/Uottawa.png)
 ### Milestones🎉
 
 - **2024/09:** Begin my journey in Computer Science🤗
