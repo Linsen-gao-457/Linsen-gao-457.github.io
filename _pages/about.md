@@ -9,7 +9,9 @@ redirect_from:
 
 ### About me👀
 
-I am an incoming PhD student at the **University of Ottawa** and obstained my master's degree at **the University of Waterloo** in 2026. I am passionate about Machine Learning.
+I am an incoming PhD student at the **University of Ottawa**; I obstained my Master of Engineering at **the University of Waterloo** in 2026; I received my Bachelor of Engineering at the Nanjing University of Post and Telecommunication in 2024.
+
+I am passionate about Machine Learning.
 
 
 People I admire:  My parents, [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi), [Lee Kuan Yew](https://en.wikipedia.org/wiki/Lee_Kuan_Yew), and [Pierre Trudeau](https://en.wikipedia.org/wiki/Pierre_Trudeau).
