@@ -9,7 +9,7 @@ redirect_from:
 
 ### About me👀
 
-I am an incoming PhD student at the **University of Ottawa**; I obstained my Master of Engineering at **the University of Waterloo** in 2026; I received my Bachelor of Engineering at **NJUPT** in 2024.
+ I am a master's student at the University of Waterloo. I received my Bachelor of Engineering at **NJUPT** in 2024.
 
 I am passionate about Machine Learning.
 
