@@ -17,9 +17,9 @@ People I admire: My parents, [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico
 
 Motto "Passion Without Motivation." ---Krishna
 
-![NJUPT logo](./images/NJUPT.png){: width="100px"}
+![NJUPT logo](./images/NJUPT.png){: width="200px"}
 ![University of Waterloo Logo](./images/Uwaterloo.gif){: width="200px"}
-![University of Ottawa Logo](./images/Uottawa.png){: width="300px"}
+![University of Ottawa Logo](./images/Uottawa.png){: width="200px"}
 
 ### Milestones🎉
 
