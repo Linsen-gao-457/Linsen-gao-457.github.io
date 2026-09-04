@@ -14,20 +14,19 @@ author_profile: true
 <!-- Publications are grouped by the ordered categories in _config.yml. -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
-    <section class="publication-section" aria-labelledby="{{ category[0] }}">
-      <h2 id="{{ category[0] }}" class="publication-section__title">{{ category[1].title }}</h2>
+    <details class="publication-section">
+      <summary id="{{ category[0] }}" class="publication-section__title">{{ category[1].title }}</summary>
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
-      {% include archive-single.html %}
+      {% include archive-single.html show_bibtex=true %}
     {% endfor %}
-    </section>
+    </details>
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
 

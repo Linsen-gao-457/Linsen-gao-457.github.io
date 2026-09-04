@@ -66,5 +66,12 @@
       <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
     {% endif %}
 
+    {% if include.show_bibtex and post.bibtex %}
+      <div class="publication-bibtex">
+        <p class="publication-bibtex__label">BibTeX</p>
+        <pre><code>{{ post.bibtex | escape }}</code></pre>
+      </div>
+    {% endif %}
+
   </article>
 </div>
