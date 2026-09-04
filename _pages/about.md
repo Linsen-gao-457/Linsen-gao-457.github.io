@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### About me👀
+### About me
 
 I am a phd student at the University of Ottawa. I received my Bachelor of Engineering at Nanjing University of Post and Telecommunication in 2024 and I obtained my Masters of Engineering at the University of Waterloo in 2026.
 
@@ -21,7 +21,7 @@ Motto "Passion Without Motivation." ---Krishna
 ![University of Waterloo Logo](./images/Uwaterloo.gif){: width="200px"}
 ![University of Ottawa Logo](./images/Uottawa.png){: width="200px"}
 
-### Learning📖
+### Learning
 
 I have always been an enthusiastic lifelong learner, and I am grateful that online resources let me study wonderful materials.
 
@@ -30,12 +30,12 @@ I have always been an enthusiastic lifelong learner, and I am grateful that onli
 - [ECE602 Introduction to Optimization](https://ece.uwaterloo.ca/~ece602/) from Uwaterloo
 - [CS680 Introduction to Machine Learning](https://cs.uwaterloo.ca/~y328yu/teaching/480/) from Uwaterloo
 
-### Intern💼
+### Intern
 
 - **2023/07 -2023/09:** Software Engineering Intern at ENN Group
 - **2024/12 - 2025/08**: Research Internship supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/)
 
-### Awards🏆
+### Awards
 
 - NJUPT-Outstanding Student Innovation and Entrepreneurship Project, 2023. **(Top 1%)**
 
