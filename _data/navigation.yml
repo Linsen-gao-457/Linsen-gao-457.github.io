@@ -11,11 +11,12 @@ main:
   #- title: "CV"
   #  url: /cv/
   #  url: /files/Resume.pdf
-  
+
   # - title: "Books"
   #   url: /books/
-  # - title: "Publications"
-  #   url: /publications/
+
+  - title: "Publications"
+    url: /publications/
 
   # - title: "Talks"
   #   url: /talks/
@@ -25,8 +26,6 @@ main:
 
   # - title: "Portfolio"
   #   url: /portfolio/
-
-
 
   # - title: "Guide"
   #   url: /markdown/
