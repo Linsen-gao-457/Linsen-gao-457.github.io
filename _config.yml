@@ -35,14 +35,22 @@ author:
   # Repositories and software development
   github: "Linsen-gao-457"
 
-# Publication Category - The following the list of publication categories and their headings
+# Publication categories are shown in this order on /publications/.
 publication_category:
-  books:
-    title: "Books"
-  manuscripts:
-    title: "Journal Articles"
-  conferences:
-    title: "Conference Papers"
+  selected-recent:
+    title: "Selected or Recent Work"
+  reasoning-models-rl:
+    title: "Reasoning Models & RL"
+  llms-understanding-empirics:
+    title: "LLMs: Understanding & Empirics"
+  representation-learning-robustness:
+    title: "Representation Learning and Robustness"
+  dl-theory:
+    title: "DL Theory"
+  uncertainty-quantification:
+    title: "Uncertainty Quantification"
+  older-works:
+    title: "Older Works"
 
 # Site Settings
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

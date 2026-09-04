@@ -9,7 +9,7 @@ redirect_from:
 
 ### About me👀
 
-I am a phd student at the University of Ottawa. I received my Bachelor of Engineering at **NJUPT** in 2024 and I obtained my masters of engineering at the University of Waterloo in 2026.
+I am a phd student at the University of Ottawa. I received my Bachelor of Engineering at Nanjing University of Post and Telecommunication in 2024 and I obtained my Masters of Engineering at the University of Waterloo in 2026.
 
 I am passionate about Machine Learning.
 
@@ -20,10 +20,6 @@ Motto "Passion Without Motivation." ---Krishna
 ![NJUPT logo](./images/NJUPT.png){: width="200px"}
 ![University of Waterloo Logo](./images/Uwaterloo.gif){: width="200px"}
 ![University of Ottawa Logo](./images/Uottawa.png){: width="200px"}
-
-### Milestones🎉
-
-- **2024/09:** Begin my journey in Computer Science🤗
 
 ### Learning📖
 
