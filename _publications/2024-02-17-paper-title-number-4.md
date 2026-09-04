@@ -1,5 +1,6 @@
 ---
 title: "Paper Title Number 4"
+authors: "Your Name"
 collection: publications
 category: selected-recent
 permalink: /publication/2024-02-17-paper-title-number-4

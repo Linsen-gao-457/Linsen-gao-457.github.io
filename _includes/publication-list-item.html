@@ -1,0 +1,23 @@
+{% include base_path %}
+
+<article class="publication-entry" itemscope itemtype="https://schema.org/ScholarlyArticle">
+  <p class="publication-entry__title" itemprop="headline">
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" itemprop="url">{{ post.title }}</a>
+    {% else %}
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink" itemprop="url">{{ post.title }}</a>
+    {% endif %}
+  </p>
+
+  {% if post.authors %}
+    <p class="publication-entry__authors" itemprop="author">{{ post.authors }}</p>
+  {% endif %}
+
+  <div class="publication-entry__meta">
+    {% if post.venue %}<span itemprop="isPartOf">{{ post.venue }}</span>{% endif %}{% if post.date %} {{ post.date | date: "%Y" }}{% endif %}{% if post.note %}, <em>{{ post.note }}</em>{% endif %}.{% if post.bibtex %}
+      <details class="publication-entry__bib">
+        <summary>bib</summary>
+        <pre><code>{{ post.bibtex | escape }}</code></pre>
+      </details>{% endif %}{% if post.codeurl %} <a href="{{ post.codeurl }}" rel="noopener">code</a>{% endif %}
+  </div>
+</article>

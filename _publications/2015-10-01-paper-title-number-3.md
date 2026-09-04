@@ -1,5 +1,6 @@
 ---
 title: "Paper Title Number 3"
+authors: "Your Name"
 collection: publications
 category: older-works
 permalink: /publication/2015-10-01-paper-title-number-3
