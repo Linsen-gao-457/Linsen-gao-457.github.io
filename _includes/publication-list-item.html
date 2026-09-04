@@ -18,6 +18,6 @@
       <details class="publication-entry__bib">
         <summary>bib</summary>
         <pre><code>{{ post.bibtex | escape }}</code></pre>
-      </details>{% endif %}{% if post.codeurl %} <a href="{{ post.codeurl }}" rel="noopener">code</a>{% endif %}
+      </details>{% endif %}{% if post.codeurl %} <a class="publication-entry__code" href="{{ post.codeurl }}" rel="noopener">code</a>{% endif %}
   </div>
 </article>

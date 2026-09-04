@@ -97,6 +97,11 @@
   font-weight: 500;
 }
 
+.publication-entry__code,
+.publication-entry__code:visited {
+  color: #000;
+}
+
 .publication-entry__bib {
   display: inline;
   margin-left: 0.25em;
