@@ -97,9 +97,14 @@
   font-weight: 500;
 }
 
+.publication-entry__slide,
+.publication-entry__slide:visited {
+  color: #d63384;
+}
+
 .publication-entry__code,
 .publication-entry__code:visited {
-  color: #000;
+  color: #111;
 }
 
 .publication-entry__bib {
@@ -110,7 +115,7 @@
     display: inline;
     cursor: pointer;
     list-style: none;
-    color: $link-color;
+    color: #1677c8;
 
     &::-webkit-details-marker {
       display: none;

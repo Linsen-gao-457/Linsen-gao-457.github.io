@@ -14,7 +14,7 @@
   {% endif %}
 
   <div class="publication-entry__meta">
-    {% if post.venue %}<span itemprop="isPartOf">{{ post.venue }}</span>{% endif %}{% if post.date %} {{ post.date | date: "%Y" }}{% endif %}{% if post.note %}, <em>{{ post.note }}</em>{% endif %}.{% if post.bibtex %}
+    {% if post.venue %}<span itemprop="isPartOf">{{ post.venue }}</span>{% endif %}{% if post.date %} {{ post.date | date: "%Y" }}{% endif %}{% if post.note %}, <em>{{ post.note }}</em>{% endif %}.{% if post.slidesurl %} <a class="publication-entry__slide" href="{{ post.slidesurl }}">slide</a>{% endif %}{% if post.bibtex %}
       <details class="publication-entry__bib">
         <summary>bib</summary>
         <pre><code>{{ post.bibtex | escape }}</code></pre>
