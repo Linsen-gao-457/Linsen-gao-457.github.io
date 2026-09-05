@@ -48,6 +48,78 @@
   font-size: $type-size-4;
 }
 
+/* Horizontal profile introduction on the home page. */
+.home-profile {
+  display: flex;
+  align-items: flex-start;
+  gap: clamp(1rem, 2.5vw, 2rem);
+  margin-bottom: 0.75em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid $border-color;
+}
+
+.home-profile__photo {
+  flex: 0 0 clamp(180px, 20vw, 280px);
+}
+
+.home-profile__photo img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center;
+}
+
+.home-profile__content {
+  flex: 1;
+  min-width: 0;
+  padding-top: 0.25em;
+
+  p {
+    margin: 0;
+    font-size: 0.75em;
+    line-height: 1.35;
+  }
+}
+
+.home-profile__name {
+  margin: 0 0 0.35em;
+  color: #333;
+  font-family: $sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.05;
+}
+
+.home-profile__pronunciation {
+  margin-bottom: 0.75em !important;
+  color: $link-color;
+  font-style: italic;
+}
+
+.home-profile__position,
+.home-profile__employer {
+  font-weight: 400;
+}
+
+.home-profile__email {
+  font-family: $monospace;
+}
+
+.home-profile__links a {
+  text-decoration: none;
+}
+
+@include breakpoint(max-width $medium) {
+  .home-profile {
+    flex-direction: column;
+  }
+
+  .home-profile__photo {
+    width: min(100%, 240px);
+    flex-basis: auto;
+  }
+}
+
 .page__content {
 
   h2 {

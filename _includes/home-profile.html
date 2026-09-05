@@ -1,0 +1,23 @@
+{% include base_path %}
+
+<section class="home-profile" aria-label="Profile">
+  <div class="home-profile__photo">
+    <img src="{{ site.author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ site.author.name }}">
+  </div>
+
+  <div class="home-profile__content">
+    <h1 class="home-profile__name">{{ site.author.name }}</h1>
+    {% if site.author.pronunciation %}
+      <p class="home-profile__pronunciation">{{ site.author.pronunciation }}</p>
+    {% endif %}
+    {% if site.author.position %}<p class="home-profile__position">{{ site.author.position }}</p>{% endif %}
+    {% if site.author.employer %}<p class="home-profile__employer">{{ site.author.employer }}</p>{% endif %}
+    {% if site.author.location %}<p><strong>Location:</strong> {{ site.author.location }}</p>{% endif %}
+    {% if site.author.email %}<p><strong>Email:</strong> <span class="home-profile__email">{{ site.author.email }}</span></p>{% endif %}
+    {% if site.author.twitter or site.author.github %}
+      <p class="home-profile__links">
+        {% if site.author.twitter %}<a href="https://twitter.com/{{ site.author.twitter }}">X</a>{% endif %}{% if site.author.twitter and site.author.github %}, {% endif %}{% if site.author.github %}<a href="https://github.com/{{ site.author.github }}">GitHub</a>{% endif %}
+      </p>
+    {% endif %}
+  </div>
+</section>
