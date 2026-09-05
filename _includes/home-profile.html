@@ -6,7 +6,7 @@
   </div>
 
   <div class="home-profile__content">
-    <h1 class="home-profile__name">{{ site.author.name }}</h1>
+    <h1 class="home-profile__name">{{ site.author.name_english | default: site.author.name }}{% if site.author.name_chinese %}<span class="home-profile__name-zh" style="font-family: 'Kaiti SC', 'STKaiti', KaiTi, serif; font-weight: 400; font-synthesis: none;">({{ site.author.name_chinese }})</span>{% endif %}</h1>
     {% if site.author.pronunciation %}
       <p class="home-profile__pronunciation">{{ site.author.pronunciation }}</p>
     {% endif %}
