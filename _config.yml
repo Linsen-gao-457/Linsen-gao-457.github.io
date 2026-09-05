@@ -48,6 +48,8 @@ publication_category:
     title: "Representation Learning and Robustness"
   dl-theory:
     title: "DL Theory"
+  information-theory:
+    title: "Information Theory"
   uncertainty-quantification:
     title: "Uncertainty Quantification"
   older-works:
@@ -175,6 +177,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  notes:
+    output: true
+    permalink: /notes/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -190,6 +195,12 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      author_profile: true
   # _posts
   - scope:
       path: ""

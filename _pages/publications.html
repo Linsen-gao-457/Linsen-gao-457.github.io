@@ -11,20 +11,62 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Publications are grouped by the ordered categories in _config.yml. -->
+<!-- Selected work is shown first; remaining research areas are nested in Older Works. -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    <details class="publication-section">
-      <summary id="{{ category[0] }}" class="publication-section__title">{{ category[1].title }}</summary>
+  <details class="publication-section">
+    <summary id="selected-recent" class="publication-section__title">{{ site.publication_category["selected-recent"].title | default: "Selected or Recent Work" }}</summary>
     {% for post in site.publications reversed %}
       {% assign post_categories = post.categories | default: post.category %}
-      {% unless post_categories contains category[0] %}
+      {% unless post_categories contains "selected-recent" %}
         {% continue %}
       {% endunless %}
       {% include publication-list-item.html %}
     {% endfor %}
-    </details>
-  {% endfor %}
+  </details>
+
+  <details class="publication-section">
+    <summary id="information-theory" class="publication-section__title">{{ site.publication_category["information-theory"].title | default: "Information Theory" }}</summary>
+    {% for post in site.publications reversed %}
+      {% assign post_categories = post.categories | default: post.category %}
+      {% unless post_categories contains "information-theory" %}
+        {% continue %}
+      {% endunless %}
+      {% include publication-list-item.html %}
+    {% endfor %}
+  </details>
+
+  <details class="publication-section">
+    <summary id="older-works" class="publication-section__title">{{ site.publication_category["older-works"].title | default: "Older Works" }}</summary>
+
+    <div class="publication-section__subsections">
+      {% for category in site.publication_category %}
+        {% if category[0] == "selected-recent" or category[0] == "older-works" or category[0] == "information-theory" %}
+          {% continue %}
+        {% endif %}
+        <details class="publication-subsection">
+          <summary class="publication-subsection__title">{{ category[1].title }}</summary>
+          {% for post in site.publications reversed %}
+            {% assign post_categories = post.categories | default: post.category %}
+            {% unless post_categories contains category[0] %}
+              {% continue %}
+            {% endunless %}
+            {% include publication-list-item.html %}
+          {% endfor %}
+        </details>
+      {% endfor %}
+
+      <details class="publication-subsection">
+        <summary class="publication-subsection__title">Other Older Works</summary>
+        {% for post in site.publications reversed %}
+          {% assign post_categories = post.categories | default: post.category %}
+          {% unless post_categories contains "older-works" %}
+            {% continue %}
+          {% endunless %}
+          {% include publication-list-item.html %}
+        {% endfor %}
+      </details>
+    </div>
+  </details>
 {% else %}
   {% for post in site.publications reversed %}
     {% include archive-single.html %}

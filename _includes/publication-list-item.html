@@ -6,6 +6,7 @@
   {% endif %}
 
   <p class="publication-entry__title" itemprop="headline">
+    <span class="publication-entry__bullet" aria-hidden="true">•</span>
     {% if post.paperurl %}
       <a href="{{ post.paperurl }}" itemprop="url">{{ post.title }}</a>
     {% else %}

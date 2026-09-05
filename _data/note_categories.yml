@@ -1,0 +1,10 @@
+- key: recent
+  title: "Selected or Recent Notes"
+- key: information-theory
+  title: "Information Theory"
+- key: machine-learning
+  title: "Machine Learning"
+- key: mathematics
+  title: "Mathematics"
+- key: other
+  title: "Other Notes"

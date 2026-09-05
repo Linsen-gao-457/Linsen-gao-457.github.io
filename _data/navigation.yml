@@ -8,24 +8,23 @@ main:
   - title: "Blog"
     url: /year-archive/
 
-  #- title: "CV"
-  #  url: /cv/
-  #  url: /files/Resume.pdf
-
-  # - title: "Books"
-  #   url: /books/
+  - title: "Books"
+    url: /books/
 
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/
+  - title: "Notes"
+    url: /notes/
 
-  # - title: "Teaching"
-  #   url: /teaching/
+  - title: "Talks"
+    url: /talks/
 
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Portfolio"
+    url: /portfolio/
 
   # - title: "Guide"
   #   url: /markdown/

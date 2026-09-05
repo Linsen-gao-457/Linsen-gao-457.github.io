@@ -1,0 +1,21 @@
+---
+layout: archive
+title: "Notes"
+permalink: /notes/
+author_profile: true
+---
+
+{% assign notes = site.notes | sort: "date" | reverse %}
+{% for category in site.data.note_categories %}
+  <details class="publication-section">
+    <summary class="publication-section__title">{{ category.title }}</summary>
+    {% assign has_notes = false %}
+    {% for note in notes %}
+      {% if note.category == category.key or note.categories contains category.key %}
+        {% assign has_notes = true %}
+        {% include note-list-item.html %}
+      {% endif %}
+    {% endfor %}
+    {% unless has_notes %}<p>No notes yet.</p>{% endunless %}
+  </details>
+{% endfor %}
