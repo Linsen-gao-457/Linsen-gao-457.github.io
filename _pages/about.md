@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "👋Hi there!"
-author_profile: true
+title: ""
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
+{% include home-profile.html %}
+
 ### About me
 
-I am a phd student at the University of Ottawa. I received my Bachelor of Engineering at Nanjing University of Post and Telecommunication in 2024 and I obtained my Masters of Engineering at the University of Waterloo in 2026.
+I am a PHD student at the University of Ottawa. I received a Bachelor of Engineering from Nanjing University of Posts and Telecommunication in 2024 and a Master of Engineering from the University of Waterloo in 2026.
 
 I am passionate about Machine Learning.
 
