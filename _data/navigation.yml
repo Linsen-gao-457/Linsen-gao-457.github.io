@@ -4,12 +4,17 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
+# run locally
+# bundle exec jekyll serve --port 4000 --livereload
+# check pid num and kill it
+# lsof -nP -iTCP:4000 -sTCP:LISTEN
+# kill 7289
 main:
   - title: "Blog"
     url: /year-archive/
 
-  - title: "Books"
-    url: /books/
+  # - title: "Books"
+  #   url: /books/
 
   - title: "Publications"
     url: /publications/

@@ -15,7 +15,7 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    <h3 class="author__name">{{ author.name_english | default: author.name }}{% if author.name_chinese %}<span class="author__name-zh" style="font-family: 'Kaiti SC', 'STKaiti', KaiTi, serif; font-weight: 400; font-synthesis: none;">({{ author.name_chinese }})</span>{% endif %}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
