@@ -3,7 +3,6 @@
 <article class="publication-entry" itemscope itemtype="https://schema.org/ScholarlyArticle">
   {% if post.bibtex %}
     {% assign bib_id = post.url | slugify | prepend: "bib-" %}
-    <input class="publication-entry__bib-toggle" id="{{ bib_id }}" type="checkbox">
   {% endif %}
 
   <p class="publication-entry__title" itemprop="headline">
@@ -24,12 +23,12 @@
 
   {% if post.slidesurl or post.bibtex or post.codeurl %}
     <div class="publication-entry__actions">
-      {% if post.bibtex %}<label class="publication-entry__bib" for="{{ bib_id }}">bib</label>{% endif %}{% if post.slidesurl %}<a class="publication-entry__slide" href="{{ post.slidesurl }}">slide</a>{% endif %}{% if post.codeurl %}<a class="publication-entry__code" href="{{ post.codeurl }}" rel="noopener">code</a>{% endif %}
+      {% if post.bibtex %}<button class="publication-entry__bib" type="button" aria-controls="{{ bib_id }}" aria-expanded="false">bib</button>{% endif %}{% if post.slidesurl %}<a class="publication-entry__slide" href="{{ post.slidesurl }}">slide</a>{% endif %}{% if post.codeurl %}<a class="publication-entry__code" href="{{ post.codeurl }}" rel="noopener">code</a>{% endif %}
     </div>
   {% endif %}
 
   {% if post.bibtex %}
-    <div class="publication-entry__bib-content">
+    <div id="{{ bib_id }}" class="publication-entry__bib-content" hidden>
       <pre><code>{{ post.bibtex | escape }}</code></pre>
     </div>
   {% endif %}

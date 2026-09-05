@@ -101,16 +101,6 @@
   margin-top: 0.1em;
 }
 
-.publication-entry__bib-toggle {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  clip: rect(0 0 0 0);
-  clip-path: inset(50%);
-  white-space: nowrap;
-}
-
 .publication-entry__title a {
   font-weight: 500;
 }
@@ -126,19 +116,21 @@
 }
 
 .publication-entry__bib {
+  padding: 0;
+  border: 0;
+  background: transparent;
   cursor: pointer;
   color: #1677c8;
+  font: inherit;
   text-decoration: underline;
 }
 
-.publication-entry__bib-toggle:focus-visible ~ .publication-entry__actions .publication-entry__bib {
+.publication-entry__bib:focus-visible {
   outline: 2px solid #1677c8;
   outline-offset: 2px;
 }
 
 .publication-entry__bib-content {
-  display: none;
-
   pre {
     margin: 0.35em 0 0;
     padding: 0.75em;
@@ -148,10 +140,6 @@
     font-size: $type-size-7;
     line-height: 1.4;
   }
-}
-
-.publication-entry__bib-toggle:checked ~ .publication-entry__bib-content {
-  display: block;
 }
 
 .archive__item-title {
