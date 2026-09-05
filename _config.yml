@@ -42,8 +42,6 @@ publication_category:
     title: "Selected or Recent Work"
   reasoning-models-rl:
     title: "Reasoning Models & RL"
-  llms-understanding-empirics:
-    title: "LLMs: Understanding & Empirics"
   representation-learning-robustness:
     title: "Representation Learning and Robustness"
   dl-theory:
