@@ -17,9 +17,10 @@ author_profile: true
     <details class="publication-section">
       <summary id="{{ category[0] }}" class="publication-section__title">{{ category[1].title }}</summary>
     {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
+      {% assign post_categories = post.categories | default: post.category %}
+      {% unless post_categories contains category[0] %}
         {% continue %}
-      {% endif %}
+      {% endunless %}
       {% include publication-list-item.html %}
     {% endfor %}
     </details>
