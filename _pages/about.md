@@ -11,7 +11,7 @@ redirect_from:
 
 ### About me
 
-I am a PhD student in Electrical and Computer Engineering at the University of Ottawa. I received a B.Eng. in Telecommunication Engineering from Nanjing University of Posts and Telecommunications in 2024 and an M.Eng. in Electrical and Computer Engineering from the University of Waterloo in 2026.
+I am a PhD student in Electrical and Computer Engineering at the University of Ottawa. I received my bachelor’s degree in Telecommunication Engineering from Nanjing University of Posts and Telecommunications in 2024 and my master’s degree in Electrical and Computer Engineering from the University of Waterloo in 2026.
 
 I am passionate about Machine Learning.
 
