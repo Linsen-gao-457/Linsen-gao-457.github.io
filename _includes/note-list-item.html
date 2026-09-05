@@ -1,9 +1,10 @@
-<article class="publication-entry">
+<article class="publication-entry note-entry">
   <p class="publication-entry__title">
     <span class="publication-entry__bullet" aria-hidden="true">•</span>
     <a href="{{ note.noteurl | default: note.url | relative_url }}">{{ note.title | escape }}</a>
   </p>
   {% if note.description %}<p class="publication-entry__authors">{{ note.description | escape }}</p>{% endif %}
+  {% if note.date or note.slidesurl or note.codeurl %}
   <div class="publication-entry__meta">
     {% if note.date %}<time datetime="{{ note.date | date_to_xmlschema }}">{{ note.date | date: "%Y-%m-%d" }}</time>{% endif %}
     <span class="publication-entry__actions">
@@ -11,4 +12,5 @@
       {% if note.codeurl %}<a class="publication-entry__code" href="{{ note.codeurl }}">code</a>{% endif %}
     </span>
   </div>
+  {% endif %}
 </article>
