@@ -13,10 +13,10 @@
     {% if site.author.position %}<p class="home-profile__position">{{ site.author.position }}</p>{% endif %}
     {% if site.author.employer %}<p class="home-profile__employer">{{ site.author.employer }}</p>{% endif %}
     {% if site.author.location %}<p><strong>Location:</strong> {{ site.author.location }}</p>{% endif %}
-    {% if site.author.email %}<p><strong>Email:</strong> <a class="home-profile__email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>{% endif %}
+    {% if site.author.email %}<p><strong>Email:</strong> <span class="home-profile__email">{{ site.author.email }}</span></p>{% endif %}
     {% if site.author.twitter or site.author.github %}
       <p class="home-profile__links">
-        {% if site.author.twitter %}<a href="https://twitter.com/{{ site.author.twitter }}">Twitter</a>{% endif %}{% if site.author.twitter and site.author.github %}, {% endif %}{% if site.author.github %}<a href="https://github.com/{{ site.author.github }}">GitHub</a>{% endif %}
+        {% if site.author.twitter %}<a href="https://twitter.com/{{ site.author.twitter }}">X</a>{% endif %}{% if site.author.twitter and site.author.github %}, {% endif %}{% if site.author.github %}<a href="https://github.com/{{ site.author.github }}">GitHub</a>{% endif %}
       </p>
     {% endif %}
   </div>
