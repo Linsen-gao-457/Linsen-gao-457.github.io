@@ -23,7 +23,7 @@
 
   {% if post.slidesurl or post.bibtex or post.codeurl %}
     <div class="publication-entry__actions">
-      {% if post.bibtex %}<button class="publication-entry__bib" type="button" aria-controls="{{ bib_id }}" aria-expanded="false">bib</button>{% endif %}{% if post.slidesurl %}<a class="publication-entry__slide" href="{{ post.slidesurl }}">slide</a>{% endif %}{% if post.codeurl %}<a class="publication-entry__code" href="{{ post.codeurl }}" rel="noopener">code</a>{% endif %}
+      {% if post.bibtex %}<button class="publication-entry__bib" type="button" aria-controls="{{ bib_id }}" aria-expanded="false" onclick="var content = document.getElementById(this.getAttribute('aria-controls')); var expanded = this.getAttribute('aria-expanded') === 'true'; this.setAttribute('aria-expanded', String(!expanded)); content.hidden = expanded;">bib</button>{% endif %}{% if post.slidesurl %}<a class="publication-entry__slide" href="{{ post.slidesurl }}">slide</a>{% endif %}{% if post.codeurl %}<a class="publication-entry__code" href="{{ post.codeurl }}" rel="noopener">code</a>{% endif %}
     </div>
   {% endif %}
 
