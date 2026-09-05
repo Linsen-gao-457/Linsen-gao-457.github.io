@@ -95,6 +95,10 @@
 
 .publication-entry__actions {
   margin-top: 0.1em;
+
+  > * + * {
+    margin-left: 0.45em;
+  }
 }
 
 .publication-entry__title a {
@@ -109,12 +113,10 @@
 .publication-entry__code,
 .publication-entry__code:visited {
   color: #111;
-  margin-left: 0.45em;
 }
 
 .publication-entry__bib {
   display: inline;
-  margin-left: 0.45em;
 
   summary {
     display: inline;

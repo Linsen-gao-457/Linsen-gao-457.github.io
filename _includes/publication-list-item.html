@@ -19,11 +19,11 @@
 
   {% if post.slidesurl or post.bibtex or post.codeurl %}
     <div class="publication-entry__actions">
-      {% if post.slidesurl %}<a class="publication-entry__slide" href="{{ post.slidesurl }}">slide</a>{% endif %}{% if post.bibtex %}
+      {% if post.bibtex %}
       <details class="publication-entry__bib">
         <summary>bib</summary>
         <pre><code>{{ post.bibtex | escape }}</code></pre>
-      </details>{% endif %}{% if post.codeurl %} <a class="publication-entry__code" href="{{ post.codeurl }}" rel="noopener">code</a>{% endif %}
+      </details>{% endif %}{% if post.slidesurl %} <a class="publication-entry__slide" href="{{ post.slidesurl }}">slide</a>{% endif %}{% if post.codeurl %} <a class="publication-entry__code" href="{{ post.codeurl }}" rel="noopener">code</a>{% endif %}
     </div>
   {% endif %}
 </article>
