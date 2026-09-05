@@ -94,11 +94,12 @@
 }
 
 .publication-entry__actions {
-  display: flex;
+  display: inline-flex;
   flex-wrap: nowrap;
   align-items: baseline;
   gap: 0.45em;
-  margin-top: 0.1em;
+  margin-left: 0.35em;
+  vertical-align: baseline;
 }
 
 .publication-entry__title a {
