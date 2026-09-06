@@ -13,6 +13,8 @@ redirect_from:
 
 I am a PhD student in Electrical and Computer Engineering at the University of Ottawa, where I am fortunate to be supervised by Professor [Yongyi Mao](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science/directory/yongyi-mao).
 
+An academic curiosity: [Friedrich Leibniz](https://en.wikipedia.org/wiki/Friedrich_Leibniz) was my [(grand-15)-advisor](./academic-ancestry/).
+
 I received my bachelor’s degree in Telecommunication Engineering from Nanjing University of Posts and Telecommunications in 2024 and my master’s degree in Electrical and Computer Engineering from the University of Waterloo in 2026.
 
 I am passionate about Machine Learning.
@@ -20,8 +22,6 @@ I am passionate about Machine Learning.
 People I admire: My parents, [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi), [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming), and [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon).
 
 Motto: "Passion Without Motivation." --- Krishna
-
-[An academic curiosity](./academic-ancestry/): [Friedrich Leibniz](https://en.wikipedia.org/wiki/Friedrich_Leibniz) was my (grand-15)-advisor.
 
 ![NJUPT logo](./images/NJUPT.png){: width="250px"}
 ![University of Waterloo Logo](./images/Uwaterloo.gif){: width="190px"}
