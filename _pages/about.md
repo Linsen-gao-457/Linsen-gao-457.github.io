@@ -21,7 +21,7 @@ People I admire: My parents, [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico
 
 Motto: "Passion Without Motivation." --- Krishna
 
-An academic curiosity: [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) was my (grand-8)-advisor and [Friedrich Leibniz](https://en.wikipedia.org/wiki/Friedrich_Leibniz) was my (grand-15)-advisor.
+[An academic curiosity](./academic-ancestry/): [Friedrich Leibniz](https://en.wikipedia.org/wiki/Friedrich_Leibniz) was my (grand-15)-advisor.
 
 ![NJUPT logo](./images/NJUPT.png){: width="250px"}
 ![University of Waterloo Logo](./images/Uwaterloo.gif){: width="190px"}
