@@ -17,7 +17,7 @@ I am passionate about Machine Learning.
 
 People I admire: My parents, [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi), [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming), and [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon).
 
-Motto: "Passion Without Motivation." ---Krishna
+Motto: "Passion Without Motivation." ---- Krishna
 
 ![NJUPT logo](./images/NJUPT.png){: width="250px"}
 ![University of Waterloo Logo](./images/Uwaterloo.gif){: width="190px"}
