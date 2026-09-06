@@ -11,13 +11,17 @@ redirect_from:
 
 ### About me
 
-I am a PhD student in Electrical and Computer Engineering at the University of Ottawa. I received my bachelor’s degree in Telecommunication Engineering from Nanjing University of Posts and Telecommunications in 2024 and my master’s degree in Electrical and Computer Engineering from the University of Waterloo in 2026.
+I am a PhD student in Electrical and Computer Engineering at the University of Ottawa, where I am fortunate to be supervised by Professor [Yongyi Mao](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science/directory/yongyi-mao).
+
+I received my bachelor’s degree in Telecommunication Engineering from Nanjing University of Posts and Telecommunications in 2024 and my master’s degree in Electrical and Computer Engineering from the University of Waterloo in 2026.
 
 I am passionate about Machine Learning.
 
 People I admire: My parents, [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi), [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming), and [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon).
 
-Motto: "Passion Without Motivation." ---- Krishna
+Motto: "Passion Without Motivation." --- Krishna
+
+An academic curiosity: [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) was my (grand-8)-advisor and [Friedrich Leibniz](https://en.wikipedia.org/wiki/Friedrich_Leibniz) was my (grand-15)-advisor.
 
 ![NJUPT logo](./images/NJUPT.png){: width="250px"}
 ![University of Waterloo Logo](./images/Uwaterloo.gif){: width="190px"}
@@ -34,8 +38,8 @@ I have always been an enthusiastic lifelong learner, and I am grateful that onli
 
 ### Intern
 
-- **2023/07 -2023/09:** Software Engineering Intern at ENN Group
-- **2024/12 - 2025/08**: Research Internship supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/)
+- **2023/07 -2023/09:** Software Engineering Intern at ENN Group.
+- **2024/12 - 2025/08**: Research Internship supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/).
 
 ### Awards
 
