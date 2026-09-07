@@ -31,7 +31,7 @@ Lecun describes research as a proufoundly creative work to increase the stock of
 
 Engineering, in constract, integrates developed research discovery into working systems. The philosophy of engineering is pragmatic: choose the first sets of scientific tools that work well given real-world constraints. Whether the method is the abosolute best matters less than wheather it is good enough to work.
 
-Metrics also differ. Research often uses offline metrics liek precision, recall etc. Engineering adds online metrics which is problem-oriented such as click-through rate, revenue lift etc.
+Metrics also differ. Research often uses offline metrics like precision, recall etc. Engineering adds online metrics which is problem-oriented such as click-through rate, revenue lift etc.
 
 ## My Understanding from Musk's View
 
@@ -72,7 +72,7 @@ When I decided to explore research at Waterloo, it was because I felt frustrated
 > Why must artificial intelligence rely so heavily on probabilistic models?
 > Is there a way for AI to access knowledge directly, rather than follow the probability game?
 
-At that time, I am really weak at math, for now, I am still weak at math. I am confused why people should learn these really hard math to do AI. I thought maybe IR(information retrieval) and RAG(Retrival-Augmented Generation) could be a way to free us from the probability game. But after learning the details, I realized that RAG simply intergrates the traditional IR pipeline to get the top k documents and put these documents and prompt into LLM to generate the answer. It's still within the range of probaility game. I know many researchers on theory side would be very mad after hearing my idea:)
+At that time, I am really weak at math, for now, I am still weak at math. I am confused why people should learn these really hard math to do AI. I thought maybe IR(information retrieval) and RAG(Retrival-Augmented Generation) could be a way to free us from the probability game. But after learning the details, I realized that RAG simply intergrates the traditional IR pipeline to get the top k documents and put these documents and prompt into LLM to generate the answer. It's still within the range of probaility game.
 
 It's a failure but it's also an important moment of remider which says don't judge.
 
