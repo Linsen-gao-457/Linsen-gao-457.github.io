@@ -5,15 +5,16 @@ author_profile: false
 redirect_from:
   - /about/
   - /about.html
+# (./academic-ancestry/).
 ---
 
 {% include home-profile.html %}
 
 ### About me
 
-I am a PhD student in Electrical and Computer Engineering at the University of Ottawa, where I am fortunate to be supervised by Professor [Yongyi Mao](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science/directory/yongyi-mao).
+I am a PhD student in Electrical and Computer Engineering at the University of Ottawa, where I am supervised by Professor [Yongyi Mao](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science/directory/yongyi-mao).
 
-An academic curiosity: [Friedrich Leibniz](https://en.wikipedia.org/wiki/Friedrich_Leibniz) was my [(grand-15)-advisor](./academic-ancestry/).
+An academic curiosity: [Friedrich Leibniz](https://en.wikipedia.org/wiki/Friedrich_Leibniz) was my (grand-15)-advisor.
 
 I received my bachelor’s degree in Telecommunication Engineering from Nanjing University of Posts and Telecommunications in 2024 and my master’s degree in Electrical and Computer Engineering from the University of Waterloo in 2026.
 
@@ -31,6 +32,12 @@ I have always been an enthusiastic lifelong learner, and I am grateful that onli
 - [EE364 Convex Optimization I and II](https://web.stanford.edu/class/ee364a/) from Stanford
 - [ECE602 Introduction to Optimization](https://ece.uwaterloo.ca/~ece602/) from Uwaterloo
 - [CS680 Introduction to Machine Learning](https://cs.uwaterloo.ca/~y328yu/teaching/480/) from Uwaterloo
+
+### Open-Source Contribution
+
+I am also a big fan of open source. The repository below may be helpful to you, if you are working with AI/ML.
+
+- [PRML Reproduction](https://github.com/Linsen-gao-457/PRML-Reproduction)
 
 ### Intern
 
