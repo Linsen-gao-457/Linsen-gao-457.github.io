@@ -35,7 +35,7 @@ I have always been an enthusiastic lifelong learner, and I am grateful that onli
 
 ### Open-Source Contribution
 
-I am also a big fan of open source. The repository below may be helpful to you, if you are working with AI/ML.
+I am also a big fan of open source. The repository below may be helpful if you are working with AI/ML.
 
 - [PRML Reproduction](https://github.com/Linsen-gao-457/PRML-Reproduction)
 
