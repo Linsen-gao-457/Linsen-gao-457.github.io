@@ -41,7 +41,7 @@ I am also a big fan of open source. The repository below may be helpful if you a
 
 ### Intern
 
-- **2023/07 -2023/09:** Software Engineering Intern at ENN Group.
+- **2023/07 -2023/09:** Software Engineering Intern at [ENN Group](https://en.wikipedia.org/wiki/ENN_Group).
 - **2024/12 - 2025/08**: Research Internship supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/).
 
 ### Awards
